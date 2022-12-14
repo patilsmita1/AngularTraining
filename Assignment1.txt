@@ -1,0 +1,58 @@
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+<style>
+.fakeimg {
+height: 200px;
+background: #aaa;
+}
+</style>
+</head>
+<body>
+
+
+
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+<div class="container-fluid">
+<ul class="navbar-nav">
+<li class="nav-item">
+<a class="nav-link active" href="#">Presentation</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#">Studies</a>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="#">Staff</a>
+</li>
+
+</ul>
+</div>
+</nav>
+</br>
+
+<section>
+<div class="container row">
+<div class="col-sm-6 border text-gray"> <h1><strong>News</strong></h1>
+<p>news1 - Date</p>
+<p>Description<p/>
+<p>news2 - Date</p>
+<p>Description</p>
+</div>
+
+<div class="col-sm-6 border text-gray"><h1><strong>Announcements</strong></h1>
+<p>OpenCource 1</p>
+<p>Description<p/>
+<p>OpenCource 2</p>
+<p>Description</p>
+</div>
+
+</div>
+</section>
+
+<div class="mt-5 p-4 bg-dark text-white text-center">
+<p>Contact:Info@University.com</p>
+<p>(c) University, 2o:</p>
+</div>
+
+</body>
+</html>
